@@ -25,5 +25,5 @@ System for managing users, each user has his/her own list of tasks and posts
 ![App Screenshot](ReadMeImage/press.JPG)
 
 ### **Searching**
-![App Screenshot](ReadMeImage/start.JPG)
+![App Screenshot](ReadMeImage/searching.JPG)
 
